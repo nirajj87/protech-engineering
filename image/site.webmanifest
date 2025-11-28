@@ -1,0 +1,26 @@
+{
+    "name": "ProTech Engineering",
+    "short_name": "ProTech",
+    "description": "Precision Tooling & Manufacturing Solutions - CNC Machining, Custom Tooling & Industrial Engineering",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#0056b3",
+    "orientation": "portrait-primary",
+    "scope": "/",
+    "lang": "en",
+    "categories": ["industrial", "manufacturing", "engineering"],
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
